@@ -4,7 +4,7 @@
 import java.util.ArrayList;
 public class TicTacToe_AI{
     
-    
+   //change 
    
     
     public int nextmove(boolean[][] opponent, boolean[][] mine, int count){
